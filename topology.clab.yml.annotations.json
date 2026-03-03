@@ -1,0 +1,81 @@
+{
+  "freeTextAnnotations": [],
+  "freeShapeAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "ceos1",
+      "position": {
+        "x": 380,
+        "y": 360
+      },
+      "icon": "pe",
+      "iconColor": "#16325b",
+      "iconCornerRadius": 0
+    },
+    {
+      "id": "ceos2",
+      "position": {
+        "x": 600,
+        "y": 360
+      },
+      "icon": "pe",
+      "iconColor": "#16325b",
+      "iconCornerRadius": 0
+    },
+    {
+      "id": "ceos3",
+      "position": {
+        "x": 840,
+        "y": 360
+      },
+      "icon": "switch",
+      "iconColor": "#16325b",
+      "interfacePattern": "et{n}"
+    },
+    {
+      "id": "ceos4",
+      "position": {
+        "x": 600,
+        "y": 200
+      },
+      "icon": "switch",
+      "iconColor": "#16325b",
+      "interfacePattern": "et{n}"
+    },
+    {
+      "id": "host1",
+      "position": {
+        "x": 380,
+        "y": 500
+      },
+      "icon": "client",
+      "iconColor": "#16325b",
+      "interfacePattern": "eth{n}"
+    },
+    {
+      "id": "host2",
+      "position": {
+        "x": 760,
+        "y": 500
+      },
+      "icon": "client",
+      "iconColor": "#16325b",
+      "interfacePattern": "eth{n}"
+    },
+    {
+      "id": "host3",
+      "position": {
+        "x": 920,
+        "y": 500
+      },
+      "icon": "client",
+      "iconColor": "#16325b",
+      "interfacePattern": "eth{n}"
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {}
+}
