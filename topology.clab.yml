@@ -21,16 +21,16 @@ topology:
 
   nodes:
     ceos1:
-      startup-config: init-configs/ceos1/startup_config
+      startup-config: init-configs/clab-mcast-quick-demo/ceos1/startup_config
 
     ceos2:
-      startup-config: init-configs/ceos2/startup_config
+      startup-config: init-configs/clab-mcast-quick-demo/ceos2/startup_config
 
     ceos3:
-      startup-config: init-configs/ceos3/startup_config
+      startup-config: init-configs/clab-mcast-quick-demo/ceos3/startup_config
 
     ceos4:
-      startup-config: init-configs/ceos4/startup_config
+      startup-config: init-configs/clab-mcast-quick-demo/ceos4/startup_config
 
     host1:
       kind: linux
